@@ -4,11 +4,14 @@ public class Test1 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("project 2 exported sucessfully");
 		
-		System.out.println("Macking change");
+		System.out.println("Macking change"
 		
 		System.out.println(" ashish takle ");
+
+		System.out.println("project  sucessfully");
+		System.out.println("i love you darling");
+		System.out.println("git hub naster ");
 
 	}
 
